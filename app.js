@@ -54,8 +54,8 @@ var db_pwd  = "cmpe281" ;
 var db_name = "test" ;
 */
 //mongodb://<dbuser>:<dbpassword>@ds249123.mlab.co123/testgumball
-var db_host = (process.env.mongodb_host || "ds135519.mlab.com" ) ;
-var db_port = (process.env.mongodb_port || "35519" ) ;
+var db_host = (process.env.mongodb_host || "ds151293.mlab.com" ) ;
+var db_port = (process.env.mongodb_port || "51293" ) ;
 var db_user = (process.env.mongodb_user || "admin" ) ;
 var db_pwd  = (process.env.mongodb_pwd  || "cmpe281" ) ;
 var db_name = (process.env.mongodb_name || "gumball" ) ;
