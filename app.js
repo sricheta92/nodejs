@@ -14,8 +14,8 @@ Serial# 1234998871109
 **/
 
 //goapi
-var machine = "https://52.52.40.81/goapi/gumball";
-var endpoint = "https://52.52.40.81/goapi/order";
+var machine = "https://52.52.40.81:8000/goapi/gumball";
+var endpoint = "https://52.52.40.81:8000/goapi/order";
 
 
 var fs = require('fs');
