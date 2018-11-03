@@ -13,7 +13,7 @@ Serial# 1234998871109
 
 **/
 
-/goapi
+//goapi
 var machine = "https://52.52.40.81/goapi/gumball";
 var endpoint = "https://52.52.40.81/goapi/order";
 
